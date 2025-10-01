@@ -1,1 +1,12 @@
 tes code
+<<<<<<< Updated upstream
+hello nrgmaking
+ok
+more test
+
+yeyyyss
+iiii
+=======
+hi - nrgmaking
+hhhhhhhhhhhhffssssssssssd
+>>>>>>> Stashed changes
